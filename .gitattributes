@@ -1,0 +1,4 @@
+test/hotdog filter=lfs diff=lfs merge=lfs -text
+test/nothotdog filter=lfs diff=lfs merge=lfs -text
+train/hotdog filter=lfs diff=lfs merge=lfs -text
+train/nothotdog filter=lfs diff=lfs merge=lfs -text
